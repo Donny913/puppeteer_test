@@ -1,0 +1,25 @@
+# dependencies
+node_modules
+flow-typed
+coverage
+
+# development
+dist
+
+# production
+build
+build_dev
+build_prod
+
+# misc
+.vscode
+.idea
+*.iml
+.DS_store
+npm-debug.log
+yarn-error.log
+release.jar
+desktop.ini
+
+#config
+config/appConfig.js
